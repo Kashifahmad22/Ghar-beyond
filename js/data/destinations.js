@@ -19,32 +19,32 @@ window.GB_DESTINATIONS = [
       {
         "day": "01",
         "title": "Arrival in Gangtok",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time to arrive and settle in. Transfer and check-in arrangements are confirmed with your final itinerary."
       },
       {
         "day": "02",
         "title": "Gangtok & local sightseeing",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "03",
         "title": "Tsomgo Lake & Nathula Pass",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Plan this visit around local access rules and conditions; routes, permits and timings are confirmed for your travel dates."
       },
       {
         "day": "04",
         "title": "Pelling transfer & sightseeing",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "05",
         "title": "Pelling experience",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "06",
         "title": "Departure",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time for check-out and onward travel; departure timing and transfers are confirmed in your final itinerary."
       }
     ],
     "included": [
@@ -65,7 +65,7 @@ window.GB_DESTINATIONS = [
       },
       {
         "q": "Is the displayed price final?",
-        "a": "No. Pricing is a placeholder until dates, travellers and inclusions are confirmed."
+        "a": "Displayed prices are starting estimates. Your final quote depends on travel dates, group size, room type, transport and selected services."
       }
     ]
   },
@@ -89,27 +89,27 @@ window.GB_DESTINATIONS = [
       {
         "day": "01",
         "title": "Arrival in Darjeeling",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time to arrive and settle in. Transfer and check-in arrangements are confirmed with your final itinerary."
       },
       {
         "day": "02",
         "title": "Tiger Hill & sightseeing",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "03",
         "title": "Tea garden experience",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "04",
         "title": "Local exploration",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "05",
         "title": "Departure",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time for check-out and onward travel; departure timing and transfers are confirmed in your final itinerary."
       }
     ],
     "included": [
@@ -130,7 +130,7 @@ window.GB_DESTINATIONS = [
       },
       {
         "q": "Is the displayed price final?",
-        "a": "No. Pricing is a placeholder until dates, travellers and inclusions are confirmed."
+        "a": "Displayed prices are starting estimates. Your final quote depends on travel dates, group size, room type, transport and selected services."
       }
     ]
   },
@@ -154,32 +154,32 @@ window.GB_DESTINATIONS = [
       {
         "day": "01",
         "title": "Arrival in Srinagar",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time to arrive and settle in. Transfer and check-in arrangements are confirmed with your final itinerary."
       },
       {
         "day": "02",
         "title": "Srinagar exploration",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "03",
         "title": "Gulmarg day trip",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "A flexible day for this experience, with route and timing tailored to your dates and local conditions."
       },
       {
         "day": "04",
         "title": "Pahalgam",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "A flexible day for this experience, with route and timing tailored to your dates and local conditions."
       },
       {
         "day": "05",
         "title": "Sonamarg / local experience",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "06",
         "title": "Departure",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time for check-out and onward travel; departure timing and transfers are confirmed in your final itinerary."
       }
     ],
     "included": [
@@ -200,7 +200,7 @@ window.GB_DESTINATIONS = [
       },
       {
         "q": "Is the displayed price final?",
-        "a": "No. Pricing is a placeholder until dates, travellers and inclusions are confirmed."
+        "a": "Displayed prices are starting estimates. Your final quote depends on travel dates, group size, room type, transport and selected services."
       }
     ]
   },
@@ -224,32 +224,32 @@ window.GB_DESTINATIONS = [
       {
         "day": "01",
         "title": "Arrival in Port Blair",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time to arrive and settle in. Transfer and check-in arrangements are confirmed with your final itinerary."
       },
       {
         "day": "02",
         "title": "Havelock transfer",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "03",
         "title": "Radhanagar Beach",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Plan this visit around local access rules and conditions; routes, permits and timings are confirmed for your travel dates."
       },
       {
         "day": "04",
         "title": "Island exploration",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Plan this visit around local access rules and conditions; routes, permits and timings are confirmed for your travel dates."
       },
       {
         "day": "05",
         "title": "Leisure day",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Keep this day flexible for rest or optional local experiences; available options depend on your dates and local conditions."
       },
       {
         "day": "06",
         "title": "Departure",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time for check-out and onward travel; departure timing and transfers are confirmed in your final itinerary."
       }
     ],
     "included": [
@@ -270,7 +270,7 @@ window.GB_DESTINATIONS = [
       },
       {
         "q": "Is the displayed price final?",
-        "a": "No. Pricing is a placeholder until dates, travellers and inclusions are confirmed."
+        "a": "Displayed prices are starting estimates. Your final quote depends on travel dates, group size, room type, transport and selected services."
       }
     ]
   },
@@ -294,32 +294,32 @@ window.GB_DESTINATIONS = [
       {
         "day": "01",
         "title": "Arrival & transfer",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time to arrive and settle in. Transfer and check-in arrangements are confirmed with your final itinerary."
       },
       {
         "day": "02",
         "title": "Thimphu exploration",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "03",
         "title": "Punakha journey",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "04",
         "title": "Paro & local experiences",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "05",
         "title": "Tiger’s Nest",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "A flexible day for this experience, with route and timing tailored to your dates and local conditions."
       },
       {
         "day": "06",
         "title": "Departure",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time for check-out and onward travel; departure timing and transfers are confirmed in your final itinerary."
       }
     ],
     "included": [
@@ -340,7 +340,7 @@ window.GB_DESTINATIONS = [
       },
       {
         "q": "Is the displayed price final?",
-        "a": "No. Pricing is a placeholder until dates, travellers and inclusions are confirmed."
+        "a": "Displayed prices are starting estimates. Your final quote depends on travel dates, group size, room type, transport and selected services."
       }
     ]
   },
@@ -364,37 +364,37 @@ window.GB_DESTINATIONS = [
       {
         "day": "01",
         "title": "Arrival in Kathmandu",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time to arrive and settle in. Transfer and check-in arrangements are confirmed with your final itinerary."
       },
       {
         "day": "02",
         "title": "Kathmandu heritage",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "03",
         "title": "Fly / drive to Pokhara",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "A flexible day for this experience, with route and timing tailored to your dates and local conditions."
       },
       {
         "day": "04",
         "title": "Pokhara exploration",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "05",
         "title": "Sarangkot sunrise",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "A flexible day for this experience, with route and timing tailored to your dates and local conditions."
       },
       {
         "day": "06",
         "title": "Leisure & local experience",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Keep this day flexible for rest or optional local experiences; available options depend on your dates and local conditions."
       },
       {
         "day": "07",
         "title": "Departure",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time for check-out and onward travel; departure timing and transfers are confirmed in your final itinerary."
       }
     ],
     "included": [
@@ -415,7 +415,7 @@ window.GB_DESTINATIONS = [
       },
       {
         "q": "Is the displayed price final?",
-        "a": "No. Pricing is a placeholder until dates, travellers and inclusions are confirmed."
+        "a": "Displayed prices are starting estimates. Your final quote depends on travel dates, group size, room type, transport and selected services."
       }
     ]
   },
@@ -439,32 +439,32 @@ window.GB_DESTINATIONS = [
       {
         "day": "01",
         "title": "Arrival in Shillong",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time to arrive and settle in. Transfer and check-in arrangements are confirmed with your final itinerary."
       },
       {
         "day": "02",
         "title": "Shillong exploration",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "03",
         "title": "Cherrapunji waterfalls",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "A flexible day for this experience, with route and timing tailored to your dates and local conditions."
       },
       {
         "day": "04",
         "title": "Dawki & border region",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Plan this visit around local access rules and conditions; routes, permits and timings are confirmed for your travel dates."
       },
       {
         "day": "05",
         "title": "Living root bridge experience",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "06",
         "title": "Departure",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time for check-out and onward travel; departure timing and transfers are confirmed in your final itinerary."
       }
     ],
     "included": [
@@ -485,7 +485,7 @@ window.GB_DESTINATIONS = [
       },
       {
         "q": "Is the displayed price final?",
-        "a": "No. Pricing is a placeholder until dates, travellers and inclusions are confirmed."
+        "a": "Displayed prices are starting estimates. Your final quote depends on travel dates, group size, room type, transport and selected services."
       }
     ]
   },
@@ -509,37 +509,37 @@ window.GB_DESTINATIONS = [
       {
         "day": "01",
         "title": "Arrival",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time to arrive and settle in. Transfer and check-in arrangements are confirmed with your final itinerary."
       },
       {
         "day": "02",
         "title": "Bomdila / Dirang",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "A flexible day for this experience, with route and timing tailored to your dates and local conditions."
       },
       {
         "day": "03",
         "title": "Sela Pass journey",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Plan this visit around local access rules and conditions; routes, permits and timings are confirmed for your travel dates."
       },
       {
         "day": "04",
         "title": "Tawang exploration",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "05",
         "title": "Monastery & local experiences",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "06",
         "title": "Leisure",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Keep this day flexible for rest or optional local experiences; available options depend on your dates and local conditions."
       },
       {
         "day": "07",
         "title": "Departure",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time for check-out and onward travel; departure timing and transfers are confirmed in your final itinerary."
       }
     ],
     "included": [
@@ -560,7 +560,7 @@ window.GB_DESTINATIONS = [
       },
       {
         "q": "Is the displayed price final?",
-        "a": "No. Pricing is a placeholder until dates, travellers and inclusions are confirmed."
+        "a": "Displayed prices are starting estimates. Your final quote depends on travel dates, group size, room type, transport and selected services."
       }
     ]
   },
@@ -584,27 +584,27 @@ window.GB_DESTINATIONS = [
       {
         "day": "01",
         "title": "Arrival in Bhubaneswar",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time to arrive and settle in. Transfer and check-in arrangements are confirmed with your final itinerary."
       },
       {
         "day": "02",
         "title": "Bhubaneswar exploration",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "03",
         "title": "Puri & Konark",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "A flexible day for this experience, with route and timing tailored to your dates and local conditions."
       },
       {
         "day": "04",
         "title": "Chilika experience",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "05",
         "title": "Departure",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time for check-out and onward travel; departure timing and transfers are confirmed in your final itinerary."
       }
     ],
     "included": [
@@ -625,7 +625,7 @@ window.GB_DESTINATIONS = [
       },
       {
         "q": "Is the displayed price final?",
-        "a": "No. Pricing is a placeholder until dates, travellers and inclusions are confirmed."
+        "a": "Displayed prices are starting estimates. Your final quote depends on travel dates, group size, room type, transport and selected services."
       }
     ]
   },
@@ -649,32 +649,32 @@ window.GB_DESTINATIONS = [
       {
         "day": "01",
         "title": "Arrival",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time to arrive and settle in. Transfer and check-in arrangements are confirmed with your final itinerary."
       },
       {
         "day": "02",
         "title": "Manali exploration",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "03",
         "title": "Solang Valley",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "A flexible day for this experience, with route and timing tailored to your dates and local conditions."
       },
       {
         "day": "04",
         "title": "Kasol / Manikaran",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "A flexible day for this experience, with route and timing tailored to your dates and local conditions."
       },
       {
         "day": "05",
         "title": "Leisure",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Keep this day flexible for rest or optional local experiences; available options depend on your dates and local conditions."
       },
       {
         "day": "06",
         "title": "Departure",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time for check-out and onward travel; departure timing and transfers are confirmed in your final itinerary."
       }
     ],
     "included": [
@@ -695,7 +695,7 @@ window.GB_DESTINATIONS = [
       },
       {
         "q": "Is the displayed price final?",
-        "a": "No. Pricing is a placeholder until dates, travellers and inclusions are confirmed."
+        "a": "Displayed prices are starting estimates. Your final quote depends on travel dates, group size, room type, transport and selected services."
       }
     ]
   },
@@ -719,27 +719,27 @@ window.GB_DESTINATIONS = [
       {
         "day": "01",
         "title": "Arrival in Agatti",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time to arrive and settle in. Transfer and check-in arrangements are confirmed with your final itinerary."
       },
       {
         "day": "02",
         "title": "Lagoon and beach experience",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Plan this visit around local access rules and conditions; routes, permits and timings are confirmed for your travel dates."
       },
       {
         "day": "03",
         "title": "Island exploration",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Plan this visit around local access rules and conditions; routes, permits and timings are confirmed for your travel dates."
       },
       {
         "day": "04",
         "title": "Leisure by the sea",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Keep this day flexible for rest or optional local experiences; available options depend on your dates and local conditions."
       },
       {
         "day": "05",
         "title": "Departure",
-        "description": "Detailed itinerary placeholder — replace this with the confirmed day plan."
+        "description": "Allow time for check-out and onward travel; departure timing and transfers are confirmed in your final itinerary."
       }
     ],
     "included": [
@@ -761,7 +761,7 @@ window.GB_DESTINATIONS = [
       },
       {
         "q": "Is the displayed price final?",
-        "a": "No. Pricing is a placeholder until dates, travellers and inclusions are confirmed."
+        "a": "Displayed prices are starting estimates. Your final quote depends on travel dates, group size, room type, transport and selected services."
       }
     ]
   }

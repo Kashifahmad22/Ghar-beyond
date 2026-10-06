@@ -71,13 +71,8 @@ closeChat.addEventListener("click", () => {
    MEETING LINK
 ===================================================== */
 
-/*
-    Replace this with your actual Google Meet,
-    Calendly, Zoho Bookings, etc. link.
-*/
-
 const meetingLink =
-    "https://calendly.com/YOUR-LINK";
+    window.GB_CONFIG && window.GB_CONFIG.meetingUrl;
 
 
 const meetingBtn =

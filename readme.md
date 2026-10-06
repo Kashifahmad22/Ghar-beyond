@@ -17,5 +17,5 @@ Add an object to `js/data/destinations.js`, add its image to `assets/destination
 ## Add a package
 Add an object to `js/data/packages.js`, add the image to `assets/packages/` or another assets folder, and create a route folder under `packages/<slug>/`.
 
-## Replace placeholders
-The gallery/about/CTA images and testimonial text are placeholders. Replace them with approved Ghar Beyond assets and genuine customer reviews before launch.
+## Content and imagery
+Destination photographs are editorial inspiration and are not presented as customer testimonials. Confirm image usage rights before publishing, and only add traveller reviews when they are genuine and shared with permission.

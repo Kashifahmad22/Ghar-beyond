@@ -18,27 +18,27 @@ window.GB_PACKAGES = [
       {
         "day": "01",
         "title": "Arrival & welcome",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Allow time to arrive and settle in. Transfer and check-in arrangements are confirmed with your final itinerary."
       },
       {
         "day": "02",
         "title": "Explore the destination",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "03",
         "title": "Signature experience",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "04",
         "title": "Flexible local day",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Keep this day flexible for rest or optional local experiences; available options depend on your dates and local conditions."
       },
       {
         "day": "05",
         "title": "Departure",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Allow time for check-out and onward travel; departure timing and transfers are confirmed in your final itinerary."
       }
     ],
     "included": [
@@ -81,27 +81,27 @@ window.GB_PACKAGES = [
       {
         "day": "01",
         "title": "Arrival & welcome",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Allow time to arrive and settle in. Transfer and check-in arrangements are confirmed with your final itinerary."
       },
       {
         "day": "02",
         "title": "Explore the destination",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "03",
         "title": "Signature experience",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "04",
         "title": "Flexible local day",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Keep this day flexible for rest or optional local experiences; available options depend on your dates and local conditions."
       },
       {
         "day": "05",
         "title": "Departure",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Allow time for check-out and onward travel; departure timing and transfers are confirmed in your final itinerary."
       }
     ],
     "included": [
@@ -144,27 +144,27 @@ window.GB_PACKAGES = [
       {
         "day": "01",
         "title": "Arrival & welcome",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Allow time to arrive and settle in. Transfer and check-in arrangements are confirmed with your final itinerary."
       },
       {
         "day": "02",
         "title": "Explore the destination",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "03",
         "title": "Signature experience",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "04",
         "title": "Flexible local day",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Keep this day flexible for rest or optional local experiences; available options depend on your dates and local conditions."
       },
       {
         "day": "05",
         "title": "Departure",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Allow time for check-out and onward travel; departure timing and transfers are confirmed in your final itinerary."
       }
     ],
     "included": [
@@ -207,27 +207,27 @@ window.GB_PACKAGES = [
       {
         "day": "01",
         "title": "Arrival & welcome",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Allow time to arrive and settle in. Transfer and check-in arrangements are confirmed with your final itinerary."
       },
       {
         "day": "02",
         "title": "Explore the destination",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "03",
         "title": "Signature experience",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "04",
         "title": "Flexible local day",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Keep this day flexible for rest or optional local experiences; available options depend on your dates and local conditions."
       },
       {
         "day": "05",
         "title": "Departure",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Allow time for check-out and onward travel; departure timing and transfers are confirmed in your final itinerary."
       }
     ],
     "included": [
@@ -270,27 +270,27 @@ window.GB_PACKAGES = [
       {
         "day": "01",
         "title": "Arrival & welcome",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Allow time to arrive and settle in. Transfer and check-in arrangements are confirmed with your final itinerary."
       },
       {
         "day": "02",
         "title": "Explore the destination",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "03",
         "title": "Signature experience",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "04",
         "title": "Flexible local day",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Keep this day flexible for rest or optional local experiences; available options depend on your dates and local conditions."
       },
       {
         "day": "05",
         "title": "Departure",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Allow time for check-out and onward travel; departure timing and transfers are confirmed in your final itinerary."
       }
     ],
     "included": [
@@ -333,27 +333,27 @@ window.GB_PACKAGES = [
       {
         "day": "01",
         "title": "Arrival & welcome",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Allow time to arrive and settle in. Transfer and check-in arrangements are confirmed with your final itinerary."
       },
       {
         "day": "02",
         "title": "Explore the destination",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "03",
         "title": "Signature experience",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "04",
         "title": "Flexible local day",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Keep this day flexible for rest or optional local experiences; available options depend on your dates and local conditions."
       },
       {
         "day": "05",
         "title": "Departure",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Allow time for check-out and onward travel; departure timing and transfers are confirmed in your final itinerary."
       }
     ],
     "included": [
@@ -396,27 +396,27 @@ window.GB_PACKAGES = [
       {
         "day": "01",
         "title": "Arrival & welcome",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Allow time to arrive and settle in. Transfer and check-in arrangements are confirmed with your final itinerary."
       },
       {
         "day": "02",
         "title": "Explore the destination",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "03",
         "title": "Signature experience",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "04",
         "title": "Flexible local day",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Keep this day flexible for rest or optional local experiences; available options depend on your dates and local conditions."
       },
       {
         "day": "05",
         "title": "Departure",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Allow time for check-out and onward travel; departure timing and transfers are confirmed in your final itinerary."
       }
     ],
     "included": [
@@ -459,27 +459,27 @@ window.GB_PACKAGES = [
       {
         "day": "01",
         "title": "Arrival & welcome",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Allow time to arrive and settle in. Transfer and check-in arrangements are confirmed with your final itinerary."
       },
       {
         "day": "02",
         "title": "Explore the destination",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "03",
         "title": "Signature experience",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Explore at a comfortable pace, with stops selected around your interests. Travel times and access can vary by season."
       },
       {
         "day": "04",
         "title": "Flexible local day",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Keep this day flexible for rest or optional local experiences; available options depend on your dates and local conditions."
       },
       {
         "day": "05",
         "title": "Departure",
-        "description": "Package itinerary placeholder — replace with confirmed details."
+        "description": "Allow time for check-out and onward travel; departure timing and transfers are confirmed in your final itinerary."
       }
     ],
     "included": [
