@@ -11,18 +11,18 @@
         content="travel agency in Begusarai, holiday packages India, customized tour packages, travel company in Bihar, family holiday packages, honeymoon packages, travel booking India">
     <meta name="theme-color" content="#0b1f33">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.gharbeyond.com/">
+    <meta property="og:url" content="https://gharbeyond.com/">
     <meta property="og:title" content="Ghar Beyond | Travel Agency in Begusarai, Bihar">
     <meta property="og:description"
         content="Ghar Beyond helps travellers plan thoughtful holidays, custom itineraries and booking support across India.">
     <meta property="og:site_name" content="Ghar Beyond">
-    <meta property="og:image" content="https://www.gharbeyond.com/assets/hero.jpg">
+    <meta property="og:image" content="https://gharbeyond.com/assets/hero.jpg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Ghar Beyond | Travel Agency in Begusarai, Bihar">
     <meta name="twitter:description"
         content="Ghar Beyond designs personalised holiday packages, destination plans and travel support for travellers across India.">
- <meta name="twitter:image" content="https://www.gharbeyond.com/assets/hero.jpg">
-    <link rel="canonical" href="https://www.gharbeyond.com/">
+ <meta name="twitter:image" content="https://gharbeyond.com/assets/hero.jpg">
+    <link rel="canonical" href="https://gharbeyond.com/">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <title>Ghar Beyond | Travel Agency in Begusarai, Bihar</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -34,24 +34,52 @@
     <script type="application/ld+json">
         {
           "@context": "https://schema.org",
-          "@type": "TravelAgency",
-          "name": "Ghar Beyond",
-          "url": "https://www.gharbeyond.com/",
-          "logo": "https://www.gharbeyond.com/assets/logo.png",
-          "description": "Ghar Beyond is a Begusarai-based travel company helping travellers across India plan custom holiday packages, family tours, honeymoon trips and travel bookings.",
-          "telephone": "+91-7044173849",
-          "email": "gharbeyond@gmail.com",
-          "areaServed": "India",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Begusarai",
-            "addressRegion": "Bihar",
-            "addressCountry": "IN"
-          },
-          "sameAs": [
-            "https://www.instagram.com/gharbeyond/",
-            "https://www.facebook.com/gharbeyond/",
-            "https://www.youtube.com/@gharbeyond"
+          "@graph": [
+            {
+              "@id": "https://gharbeyond.com/#organization",
+              "@type": "Organization",
+              "name": "Ghar Beyond",
+              "url": "https://gharbeyond.com/",
+              "logo": "https://gharbeyond.com/assets/logo.png",
+              "email": "gharbeyond@gmail.com",
+              "telephone": "+91-7044173849",
+              "sameAs": [
+                "https://www.instagram.com/gharbeyond/",
+                "https://www.facebook.com/gharbeyond/",
+                "https://www.youtube.com/@gharbeyond"
+              ],
+              "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Begusarai",
+                "addressRegion": "Bihar",
+                "addressCountry": "IN"
+              }
+            },
+            {
+              "@id": "https://gharbeyond.com/#travelagency",
+              "@type": "TravelAgency",
+              "name": "Ghar Beyond",
+              "url": "https://gharbeyond.com/",
+              "image": "https://gharbeyond.com/assets/hero.jpg",
+              "description": "Ghar Beyond is a Begusarai-based travel company helping travellers across India plan custom holiday packages, family tours, honeymoon trips and travel bookings.",
+              "areaServed": "India",
+              "telephone": "+91-7044173849",
+              "email": "gharbeyond@gmail.com",
+              "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Begusarai",
+                "addressRegion": "Bihar",
+                "addressCountry": "IN"
+              },
+              "parentOrganization": { "@id": "https://gharbeyond.com/#organization" }
+            },
+            {
+              "@id": "https://gharbeyond.com/#website",
+              "@type": "WebSite",
+              "name": "Ghar Beyond",
+              "url": "https://gharbeyond.com/",
+              "publisher": { "@id": "https://gharbeyond.com/#organization" }
+            }
           ]
         }
     </script>

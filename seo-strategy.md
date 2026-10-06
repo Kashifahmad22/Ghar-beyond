@@ -101,9 +101,9 @@ Create dedicated pages only for trip types the team can actually fulfil.
 
 ## 10. Begusarai Landing Page SEO
 
-**URL:** `/travel-agency-begusarai/`
+**URL:** `/services/` (or existing service page structure)
 
-**Title:** Travel Agency in Begusarai | Tour & Holiday Packages | Ghar Beyond
+**Title:** Travel Planning & Holiday Packages | Ghar Beyond
 
 **Meta description:** Looking for a travel agency in Begusarai? Explore domestic and international packages, customized itineraries and practical travel assistance from Ghar Beyond.
 
@@ -119,9 +119,9 @@ Required business details: complete address, map pin, office hours, service area
 
 ## 11. Pan-India Landing Page SEO
 
-**URL:** `/travel-agency-serving-all-india/`
+**URL:** `/services/` or relevant service page
 
-**Title:** Travel Agency Serving Customers Across India | Ghar Beyond
+**Title:** Travel Planning for Customers Across India | Ghar Beyond
 
 **Meta description:** Plan domestic or international holidays online with Ghar Beyond. Get customized itineraries, package details and booking assistance from a Begusarai-based team.
 
