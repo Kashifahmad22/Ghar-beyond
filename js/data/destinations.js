@@ -143,7 +143,7 @@ window.GB_DESTINATIONS = [
     "shortDescription": "Valleys, lakes and landscapes you will remember.",
     "description": "Valleys, lakes and landscapes you will remember. Build the journey around your preferred pace, stay style and experiences.",
     "duration": "5 Nights / 6 Days",
-    "price": "₹18,999",
+    "price": "₹13,000",
     "highlights": [
       "Srinagar",
       "Gulmarg",
@@ -213,7 +213,7 @@ window.GB_DESTINATIONS = [
     "shortDescription": "Blue waters, quiet beaches and island stories.",
     "description": "Blue waters, quiet beaches and island stories. Build the journey around your preferred pace, stay style and experiences.",
     "duration": "5 Nights / 6 Days",
-    "price": "₹17,999",
+    "price": "₹12,000",
     "highlights": [
       "Port Blair",
       "Havelock Island",
@@ -283,7 +283,7 @@ window.GB_DESTINATIONS = [
     "shortDescription": "A journey into mountain landscapes, culture and calm.",
     "description": "A journey into mountain landscapes, culture and calm. Build the journey around your preferred pace, stay style and experiences.",
     "duration": "5 Nights / 6 Days",
-    "price": "₹19,999",
+    "price": "₹14,000",
     "highlights": [
       "Thimphu",
       "Paro",
@@ -353,7 +353,7 @@ window.GB_DESTINATIONS = [
     "shortDescription": "Mountains, culture and unforgettable Himalayan experiences.",
     "description": "Mountains, culture and unforgettable Himalayan experiences. Build the journey around your preferred pace, stay style and experiences.",
     "duration": "6 Nights / 7 Days",
-    "price": "₹16,999",
+    "price": "₹12,000",
     "highlights": [
       "Kathmandu",
       "Pokhara",
@@ -498,7 +498,7 @@ window.GB_DESTINATIONS = [
     "shortDescription": "Into the wild heart of the Eastern Himalayas.",
     "description": "Into the wild heart of the Eastern Himalayas. Build the journey around your preferred pace, stay style and experiences.",
     "duration": "6 Nights / 7 Days",
-    "price": "₹17,999",
+    "price": "₹13,000",
     "highlights": [
       "Tawang",
       "Sela Pass",
@@ -573,7 +573,7 @@ window.GB_DESTINATIONS = [
     "shortDescription": "Ancient temples, coastline and stories shaped by culture.",
     "description": "Ancient temples, coastline and stories shaped by culture. Build the journey around your preferred pace, stay style and experiences.",
     "duration": "4 Nights / 5 Days",
-    "price": "₹14,999",
+    "price": "₹12,000",
     "highlights": [
       "Puri",
       "Konark",

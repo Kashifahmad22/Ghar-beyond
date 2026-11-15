@@ -132,7 +132,7 @@ window.GB_PACKAGES = [
     "category": "Family",
     "image": "assets/destinations/kashmir.jpg",
     "duration": "5 Nights / 6 Days",
-    "price": "₹23,999",
+    "price": "₹13,000",
     "description": "A scenic Kashmir journey covering Srinagar, Gulmarg, Pahalgam and the valley experience.",
     "highlights": [
       "Flexible itinerary",
@@ -258,7 +258,7 @@ window.GB_PACKAGES = [
     "category": "Family",
     "image": "assets/destinations/bhutan.jpg",
     "duration": "5 Nights / 6 Days",
-    "price": "₹24,999",
+    "price": "₹14,000",
     "description": "A calm cultural journey through Paro, Thimphu and Punakha.",
     "highlights": [
       "Flexible itinerary",
@@ -321,7 +321,7 @@ window.GB_PACKAGES = [
     "category": "Honeymoon",
     "image": "assets/destinations/andaman.jpg",
     "duration": "5 Nights / 6 Days",
-    "price": "₹20,999",
+    "price": "₹12,000",
     "description": "A tropical island escape with beaches, island transfers and relaxed days.",
     "highlights": [
       "Flexible itinerary",
@@ -384,7 +384,7 @@ window.GB_PACKAGES = [
     "category": "Adventure",
     "image": "assets/destinations/nepal.jpg",
     "duration": "6 Nights / 7 Days",
-    "price": "₹19,999",
+    "price": "₹12,000",
     "description": "A first taste of Nepal combining heritage, lakes, viewpoints and Himalayan scenery.",
     "highlights": [
       "Flexible itinerary",
